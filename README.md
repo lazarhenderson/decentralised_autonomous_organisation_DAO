@@ -14,6 +14,29 @@ The example I've built is a treasury that holds cryptocurrency and the token hol
     <li><a href="#test-the-dao">Test The DAO</a></li>
   </ol>
 
+### okeh
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#the-associated-contracts">The Associated Contracts</a>
+      <ol>
+        <li><a href="#subchapter-1">Subchapter 1</a></li>
+        <li><a href="#subchapter-2">Subchapter 2</a></li>
+      </ol>
+    </li>
+    <li>
+      <a href="#test-the-dao">Test The DAO</a>
+      <ol>
+        <li><a href="#subchapter-3">Subchapter 3</a></li>
+        <li><a href="#subchapter-4">Subchapter 4</a></li>
+      </ol>
+    </li>
+  </ol>
+</details>
+
 ## The Associated Contracts
 
 ### 1. Token Contract
@@ -22,19 +45,19 @@ I used an ERC20 token to allow users to vote, this could've been an ERC721 (NFT)
 
 [See Token Contract File](contracts/Token.sol)
 
-2. Treasury Contract
+### 2. Treasury Contract
 
 This is where the cyptocurrency is stored until the voters give the approval of the proposal for it to be released.
 
 [See Treasury Contract File](contracts/Treasury.sol)
 
-3. TimeLock Contract
+### 3. TimeLock Contract
 
 This controls the delay for the releasing of the funds after the proposal has passed.
 
 [See TimeLock Contract File](contracts/TimeLock.sol)
 
-4. Governance Contract
+### 4. Governance Contract
 
 This is the main contract that controls the project. It's the contract that grants the roles of the DAO, created the proposals, shows the state of proposals and sets the proposal deadline & quorum. This is also where users cast their votes and is then able to return the amount of respective votes for each voting category. When a proposal is accepted, the governance contract is also what releases the funds from the treasury.
 
