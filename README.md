@@ -23,7 +23,7 @@ The example I've built is a treasury that holds cryptocurrency and the token hol
     <li>
       <a href="#the-associated-contracts">The Associated Contracts</a>
       <ol>
-        <li><a href="#token-contract">Token Contract</a></li>
+        <li><a href="#1-token-contract">Token Contract</a></li>
         <li><a href="#subchapter-2">Subchapter 2</a></li>
         <li><a href="#subchapter-2">Subchapter 2</a></li>
         <li><a href="#subchapter-2">Subchapter 2</a></li>
