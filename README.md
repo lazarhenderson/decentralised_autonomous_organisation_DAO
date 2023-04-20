@@ -16,7 +16,7 @@ The example I've built is a treasury that holds cryptocurrency and the token hol
 
 ## The Associated Contracts
 
-1. Token Contract
+### 1. Token Contract
 
 I used an ERC20 token to allow users to vote, this could've been an ERC721 (NFT) token but I chose to use an ERC20 for this project. This is however not the standard ERC20 token typically used for cryptocurrencies as it has a few extra functionality extensions that make it specifically useful for voting. One of the main extra features is being able to create a snapshot of votes, so that voters can't dump their tokens when the voting period is over.
 
