@@ -23,19 +23,15 @@ The example I've built is a treasury that holds cryptocurrency and the token hol
     <li>
       <a href="#the-associated-contracts">The Associated Contracts</a>
       <ol>
-        <li><a href="#subchapter-1">Subchapter 1</a></li>
+        <li><a href="#token-contract">Token Contract</a></li>
+        <li><a href="#subchapter-2">Subchapter 2</a></li>
+        <li><a href="#subchapter-2">Subchapter 2</a></li>
         <li><a href="#subchapter-2">Subchapter 2</a></li>
       </ol>
     </li>
-    <li>
-      <a href="#test-the-dao">Test The DAO</a>
-      <ol>
-        <li><a href="#subchapter-3">Subchapter 3</a></li>
-        <li><a href="#subchapter-4">Subchapter 4</a></li>
-      </ol>
-    </li>
+    <li><a href="#test-the-dao">Test The DAO</a></li>
   </ol>
-</details>
+<!-- </details> -->
 
 ## The Associated Contracts
 
