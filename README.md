@@ -14,9 +14,9 @@ The example I've built is a treasury that holds cryptocurrency and the token hol
       <a href="#the-associated-contracts">The Associated Contracts</a>
       <ol>
         <li><a href="#1-token-contract">Token Contract</a></li>
-        <li><a href="#subchapter-2">Subchapter 2</a></li>
-        <li><a href="#subchapter-2">Subchapter 2</a></li>
-        <li><a href="#subchapter-2">Subchapter 2</a></li>
+        <li><a href="#2-treasury-contract">Treasury Contract</a></li>
+        <li><a href="#3-timelock-contract">TimeLock Contract</a></li>
+        <li><a href="#4-governance-contract">Governance Contract</a></li>
       </ol>
     </li>
     <li><a href="#test-the-dao">Test The DAO</a></li>
