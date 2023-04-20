@@ -10,16 +10,6 @@ The example I've built is a treasury that holds cryptocurrency and the token hol
 
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#the-associated-contracts">The Associated Contracts</a></li>
-    <li><a href="#test-the-dao">Test The DAO</a></li>
-  </ol>
-
-### okeh
-
-<!-- TABLE OF CONTENTS -->
-<!-- <details> -->
-  <summary>Table of Contents</summary>
-  <ol>
     <li>
       <a href="#the-associated-contracts">The Associated Contracts</a>
       <ol>
@@ -31,7 +21,6 @@ The example I've built is a treasury that holds cryptocurrency and the token hol
     </li>
     <li><a href="#test-the-dao">Test The DAO</a></li>
   </ol>
-<!-- </details> -->
 
 ## The Associated Contracts
 
