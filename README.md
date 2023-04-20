@@ -17,7 +17,7 @@ The example I've built is a treasury that holds cryptocurrency and the token hol
 ### okeh
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<!-- <details> -->
   <summary>Table of Contents</summary>
   <ol>
     <li>
